@@ -13,6 +13,7 @@
 > 本资源包**仅覆盖 AE2WTLib 的游戏内指南（AE2WTLib Guide）部分**，也就是游戏中「AE2WTLib 指南书」里的说明文档
 >
 > 本资源包基于 [AE2WTLib 19.5.0](https://modrinth.com/mod/applied-energistics-2-wireless-terminals/version/19.5.0) 版本进行制作
+> 本资源包仅兼容 1.21.1 版本
 
 翻译内容对应仓库中 `assets/ae2/ae2guide/` 下的各篇指南文档，包括入门指引、AE2 机制说明、物品 / 方块 / 机器介绍以及示例装置等。
 
